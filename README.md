@@ -6,4 +6,4 @@ I am a student with a huge interest in applied mathematics (optimization, statis
 print("Modeling the world one line at a time")
 ```
 
-I’m currently working on getting certified in these areas, as well as building my own portfolio and, eventually, doing internships.
+I’m currently working on getting certified in these areas, as well as building my own portfolio.
